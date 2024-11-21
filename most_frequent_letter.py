@@ -1,3 +1,5 @@
+# Loop with while
+
 phrase = "Those who shine with their own light will never be in darkness."
 
 index = 0
